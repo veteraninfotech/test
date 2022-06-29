@@ -1,7 +1,7 @@
 <?php
 
-$a = "name";
+$a = "RITIK";
 
-$b = "test";
+$b = "Pankaj sir";
 
 echo $a." = ".$b ;
